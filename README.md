@@ -6,8 +6,8 @@
 
 安卓和 iOS 下的效果图如下所示： 
 
-[iOS 效果图](https://github.com/Calvin92/magic_guitar/raw/master/screenshot/ios.png)
-[安卓效果图](https://github.com/Calvin92/magic_guitar/raw/master/screenshot/android.png)
+![iOS 效果图](https://github.com/Calvin92/magic_guitar/raw/master/screenshot/ios.png)
+![安卓效果图](https://github.com/Calvin92/magic_guitar/raw/master/screenshot/android.png)
 
 
 ## Getting Started
